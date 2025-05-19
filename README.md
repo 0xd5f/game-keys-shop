@@ -1,11 +1,5 @@
 # Game Keys Store
-<details>
-<summary>Скриншоты</summary>
- 
-![image](https://github.com/user-attachments/assets/d795ec5f-aebf-4d7d-81b3-7a22bdb17a6d)
-![image](https://github.com/user-attachments/assets/10b56bb1-78be-4707-b490-1b5c66bcefc0)
-![image](https://github.com/user-attachments/assets/0dc6c1fb-8ce2-4579-98b4-3ae145e6ab62)
-</details>
+
 
 Современный интернет-магазин цифровых товаров (ключей для игр) с адаптивным интерфейсом, слайдером популярных товаров и удобной админкой.
 
@@ -20,6 +14,14 @@
 - Админ-панель для управления товарами и категориями
 - Рейтинг товаров (отображение и редактирование)
 - Простая авторизация для админки
+
+<details>
+<summary>Скриншоты</summary>
+ 
+![image](https://github.com/user-attachments/assets/d795ec5f-aebf-4d7d-81b3-7a22bdb17a6d)
+![image](https://github.com/user-attachments/assets/10b56bb1-78be-4707-b490-1b5c66bcefc0)
+![image](https://github.com/user-attachments/assets/0dc6c1fb-8ce2-4579-98b4-3ae145e6ab62)
+</details>
 
 ## Страницы
 
