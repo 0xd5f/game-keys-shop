@@ -1,0 +1,84 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Horizon Forbidden West",
+      "price": 39.99,
+      "description": "Epic open-world action RPG.",
+      "category": "Action",
+      "image": "/assets/horizon.jpg",
+      "rating": 2,
+      "showInSlider": true
+    },
+    {
+      "id": 2,
+      "title": "God of War Ragnarök",
+      "price": 49.99,
+      "description": "Mythical Norse adventure.",
+      "category": "Action",
+      "image": "/assets/gow.jpg",
+      "showInSlider": true,
+      "rating": 1
+    },
+    {
+      "id": 3,
+      "title": "Elden Ring",
+      "price": 59.99,
+      "description": "Dark fantasy open-world RPG.",
+      "category": "RPG",
+      "image": "/assets/eldenring.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Destiny The Witch Queen",
+      "price": 29.99,
+      "description": "Sci-fi shooter expansion.",
+      "category": "Shooter",
+      "image": "/assets/destiny.jpg",
+      "rating": 5,
+      "showInSlider": true
+    },
+    {
+      "id": 5,
+      "title": "The Legend of Zelda: Breath of the Wild",
+      "price": 44.99,
+      "description": "Legendary open-world adventure.",
+      "category": "Adventure",
+      "image": "/assets/zelda.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Dying Light 2 Stay Human",
+      "price": 34.99,
+      "description": "Parkour zombie survival.",
+      "category": "Action",
+      "image": "/assets/dyinglight2.jpg"
+    },
+    {
+      "title": "erewr",
+      "price": "140",
+      "description": "sadasdas\nsd\nad\n",
+      "category": "RPG",
+      "image": "https://i.imgur.com/S8fYeM2.jpeg",
+      "id": 7
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "Action"
+    },
+    {
+      "id": 2,
+      "name": "RPG"
+    },
+    {
+      "id": 3,
+      "name": "Shooter"
+    },
+    {
+      "id": 4,
+      "name": "Adventure"
+    }
+  ]
+}
