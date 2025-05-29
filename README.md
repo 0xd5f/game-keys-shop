@@ -92,3 +92,7 @@
 ---
 
 Разработано с учётом best practices, UX и удобства управления контентом. 
+
+**Автор:** [0xd5f](https://github.com/0xd5f)
+---
+BTC: `bc1q20yn32a9ykkgcf7r8g23n7gwqzzfj9u932w4ww`
